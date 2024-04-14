@@ -1,3 +1,3 @@
-# auditrs
+# Auditrs
 
-An RLA implementation in Rust. Mostly an unserious attempt for now. 
+An RLA tool written in Rust.
